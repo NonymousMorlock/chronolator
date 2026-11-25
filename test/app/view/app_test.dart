@@ -1,7 +1,7 @@
 // Ignore for testing purposes
 // ignore_for_file: prefer_const_constructors
 
-import 'package:chronolator/app/app.dart';
+import 'package:chronolator/src/app/app.dart';
 import 'package:chronolator/counter/counter.dart';
 import 'package:flutter_test/flutter_test.dart';
 
